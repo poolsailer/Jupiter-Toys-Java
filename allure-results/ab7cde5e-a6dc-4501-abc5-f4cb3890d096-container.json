@@ -1,0 +1,1 @@
+{"uuid":"ab7cde5e-a6dc-4501-abc5-f4cb3890d096","name":"Selenium","children":["3116e9a5-d255-48e9-8029-d1d176972af2"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1708214936188,"stop":1708214944489}],"afters":[],"start":1708214936139,"stop":1708214947109}
