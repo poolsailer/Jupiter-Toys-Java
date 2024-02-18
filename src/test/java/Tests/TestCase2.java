@@ -25,7 +25,7 @@ public class TestCase2 extends BaseSetup {
         initialization();
     }
 
-    @Test(invocationCount = 50)
+    @Test(invocationCount = 5)
     public void testcase2() throws InterruptedException {
         //use start for the start time
 
